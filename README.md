@@ -1046,8 +1046,4 @@ The key insight is that even HTTPS traffic leaks the destination domain in the T
 
 ---
 
-## Questions?
 
-If you have questions about any part of this project, the code is well-commented and follows the same flow described in this document. Start with the simple version (`main_working.cpp`) to understand the concepts, then move to the multi-threaded version (`dpi_mt.cpp`) to see how parallelism is added.
-
-Happy learning! 🚀
